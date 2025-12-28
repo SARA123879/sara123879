@@ -1,7 +1,9 @@
 ## Hi, there! 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+My name is Sara and I am an aspiring Data Analyst. I am interested in all things Python and Data Science!
+
+- 🌱 I’m currently learning Python and R.
+- 👯 I’m looking to collaborate on data science projects.
 
 <!--
 **SARA123879/sara123879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
