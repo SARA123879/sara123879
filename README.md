@@ -2,8 +2,8 @@
 
 My name is Sara and I am an aspiring Data Analyst. I am interested in all things Python and Data Science!
 
-- 🌱 I’m currently learning Python and R.
-- 👯 I’m looking to collaborate on data science projects.
+- 🌱 I’m currently learning Computer Science in college. 
+- 👯 I’m looking to collaborate on data science projects or high-impact dashboards using Python, R, and data analysis tools!
 
 <!--
 **SARA123879/sara123879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
